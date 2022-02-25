@@ -1,1 +1,29 @@
+<bug_report>
 
+  <Description> На сайте, в разделе Тип оплаты, не виден тип оплаты онлайн при офрмлении заказа. </Description>
+
+  <Project> Проект1 </Project>
+
+	<Application_Component> Раздел с типом оплаты </Application_Component>
+
+	<Version> 1.1 </Version>
+
+	<Seriousness> 5 </Seriousness>
+
+	<Priority> 5 </Priority>
+
+  <Status> Назначен </Status>
+
+	<Author> Бутранов Д.В </Author>
+
+  <Appointment> Сергеев В.В </Appointment>
+
+	<Environment> ОС Windows 10 Pro, 64-разрядная система, сервис пак 111.2223.445, браузер FireFox 97.0.1 (64 бита) </Environment>
+
+	<Playback_Steps> Добавляем любой товар в Корзину, нажимаем Перейти к оформлению, заполняем данные о клиенте и адрес доставки, нажимаем Способ оплаты, в разделе Тип оплаты есть только оплата наличными, оплата онлайн отсутствует </Playback_Steps>
+
+	<Actual_result> Оплата онлайн отсутствует </Actual_result>
+
+	<Expected_result> Можем оплатить заказ онлайн </Expected_result>
+
+</bug_report>
